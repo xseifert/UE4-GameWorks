@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DependencyManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" BaseUrl="http://carbon-deps.s3.amazonaws.com">
+  <Files>
+    <File Name="Engine/Binaries/ThirdParty/GameWorks/VXGI/d3dcompiler_47.dll" Hash="4fca3aa401cee502d1d7be5104188552f57e6295" />
+    <File Name="Engine/Binaries/ThirdParty/GameWorks/VXGI/GFSDK_VXGI_x64.dll" Hash="acfb3dda083beede299885580c2df279d9d21521" />
+    <File Name="Engine/Binaries/ThirdParty/GameWorks/VXGI/GFSDK_VXGI_x86.dll" Hash="be22f7110c7d696cfa07155233a9e05535bf7c13" />
+    <File Name="Engine/Source/ThirdParty/GameWorks/VXGI/lib/GFSDK_VXGI_x64.lib" Hash="b8e52fd60aa4eed891744cba5dff401c4645c336" />
+    <File Name="Engine/Source/ThirdParty/GameWorks/VXGI/lib/GFSDK_VXGI_x86.lib" Hash="8cd3c002112b0d23ddd1efcaa78016e28322a5f1" />
+  </Files>
+  <Blobs>
+    <Blob Hash="4fca3aa401cee502d1d7be5104188552f57e6295" Size="4310320" PackHash="1c5eca47d14ad6e48a7fb4fbbe249c9e58acd9d8" PackOffset="8" />
+    <Blob Hash="8cd3c002112b0d23ddd1efcaa78016e28322a5f1" Size="3946" PackHash="50233e9dcc1bf2b0442f08904979a71c2febf7ec" PackOffset="8" />
+    <Blob Hash="acfb3dda083beede299885580c2df279d9d21521" Size="1915392" PackHash="a8e7adc2b312cb83c0f653c4ced13b0099fbd765" PackOffset="8" />
+    <Blob Hash="b8e52fd60aa4eed891744cba5dff401c4645c336" Size="3914" PackHash="50233e9dcc1bf2b0442f08904979a71c2febf7ec" PackOffset="3954" />
+    <Blob Hash="be22f7110c7d696cfa07155233a9e05535bf7c13" Size="1703936" PackHash="461b20c189ffd3a768775b24fe41060e229ec968" PackOffset="8" />
+  </Blobs>
+  <Packs>
+    <Pack Hash="1c5eca47d14ad6e48a7fb4fbbe249c9e58acd9d8" Size="4310328" CompressedSize="1853113" RemotePath="VXGI" />
+    <Pack Hash="461b20c189ffd3a768775b24fe41060e229ec968" Size="1703944" CompressedSize="1308921" RemotePath="VXGI" />
+    <Pack Hash="50233e9dcc1bf2b0442f08904979a71c2febf7ec" Size="7868" CompressedSize="1310" RemotePath="VXGI" />
+    <Pack Hash="a8e7adc2b312cb83c0f653c4ced13b0099fbd765" Size="1915400" CompressedSize="1380325" RemotePath="VXGI" />
+  </Packs>
+</DependencyManifest>
