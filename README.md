@@ -9,13 +9,12 @@ Having custom UE4 branches on GitHub shortens the development cycle, and the eff
 
 Today developers can use custom UE4 branches to add
 
-**NVIDIA Blast
-NVIDIA FleX
-NVIDIA Flow
-NVIDIA HairWorks
-NVIDIA HBAO+
-NVIDIA Volumetric Lighting
-NVIDIA VXGI**
+**NVIDIA Blast**
+**NVIDIA FleX**
+**NVIDIA Flow**
+**NVIDIA HairWorks**
+**NVIDIA HBAO+**
+**NVIDIA VXGI**
 
 to their games. Our goal is to add custom branches for all GameWorks features through GitHub.
 
