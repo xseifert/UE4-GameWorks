@@ -9,10 +9,10 @@ public class Steamworks : ModuleRules
 	public Steamworks(ReadOnlyTargetRules Target) : base(Target)
 	{
 		/** Mark the current version of the Steam SDK */
-		string SteamVersion = "v139";
+		string SteamVersion = "v142";
 		Type = ModuleType.External;
 
-		PublicDefinitions.Add("STEAM_SDK_VER=TEXT(\"1.39\")");
+		PublicDefinitions.Add("STEAM_SDK_VER=TEXT(\"1.42\")");
 		PublicDefinitions.Add("STEAM_SDK_VER_PATH=TEXT(\"Steam" + SteamVersion + "\")");
 
 		string SdkBase = Target.UEThirdPartySourceDirectory + "Steamworks/Steam" + SteamVersion + "/sdk";
