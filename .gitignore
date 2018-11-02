@@ -185,6 +185,6 @@ Engine/Binaries/DotNET/SwarmAgent.Options.xml
 
 # NVCHANGE_BEGIN: Add VXGI
 BuildScripts/
-!/*.pdf
+#/*.pdf
 # NVCHANGE_END: Add VXGI
 
